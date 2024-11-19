@@ -14,10 +14,10 @@ customize:
         height: 40
         url: /logo.png
     profile:
-        enabled: true # Whether to show profile bar
+        enabled: false # Whether to show profile bar
         avatar: # css/images/avatar.png
         gravatar: zth_9451@qq.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: ORLANDO
+        author: 
         author_title: Designer & Programmer
         location: Chengdu, China
         follow: https://github.com
