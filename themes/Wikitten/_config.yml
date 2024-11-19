@@ -61,7 +61,7 @@ history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://github.com # recommend use GitHub https://github.com
     user: orlandoblog
-    repertory: orlandoblog
+    repertory: orlandoblog.github.io
     branch: Main
 
 # Comment
