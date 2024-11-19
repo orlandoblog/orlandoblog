@@ -1,10 +1,10 @@
 # Menus
 menu:
-  首页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  关于: /about
+  INDEX: /
+  ARCHIVES: /archives
+  CATEGORIES: /categories
+  TAGS: /tags
+  ABOUT: /about
 
 # Customize
 customize:
@@ -14,10 +14,10 @@ customize:
         height: 40
         url: /logo.png
     profile:
-        enabled: false # Whether to show profile bar
+        enabled: true # Whether to show profile bar
         avatar: # css/images/avatar.png
         gravatar: zth_9451@qq.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: zthxxx
+        author: ORLANDO
         author_title: Designer & Programmer
         location: Chengdu, China
         follow: https://github.com
@@ -37,11 +37,11 @@ customize:
 # Widgets
 widgets: # default use category only
     - category
-    # - recent_posts
-    # - archive
-    # - tag
-    # - tagcloud
-    # - links
+     - recent_posts
+     - archive
+     - tag
+     - tagcloud
+     - links
     
 # Excerpt 
 ## Auto creat excerpt with not <!--more-->
@@ -60,9 +60,9 @@ search:
 history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://github.com # recommend use GitHub https://github.com
-    user: zthxxx
-    repertory: Wiki-site
-    branch: writing
+    user: orlandoblog
+    repertory: orlandoblog
+    branch: Main
 
 # Comment
 comment:
