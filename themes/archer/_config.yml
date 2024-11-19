@@ -189,7 +189,7 @@ favicon: /assets/favicon.ico
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '2024<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">ORLANDOBLOG.GITHUB.IO 4.0 GITHUB</a>ORLANDO'
+  license: '本文采用知识共享署名<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">国际许可协议进行许可 4.0 GITHUB</a>ORLANDO'
 # Website Approve
 website_approve:
   enable: false

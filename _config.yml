@@ -107,7 +107,7 @@ deploy:
 #Add following properties to the _config.yml in Hexo directory (not archer).
   jsonContent:
   meta: true
-  pages: false
+  pages: true
   posts:
     title: true
     date: true
